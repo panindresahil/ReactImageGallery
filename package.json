@@ -1,6 +1,6 @@
 {
   "name": "myapp",
-  "proxy": "https://jobs.github.com",
+  "proxy": "https://pixabay.com/api/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
